@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopAppCore", "ShopAppCore\ShopAppCore.csproj", "{80FE1CF4-E227-47D9-AE82-F332F4876655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAppWebApi", "ShopAppWebApi\ShopAppWebApi.csproj", "{6AA45528-780C-43EA-A1E7-2B437EDC7AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80FE1CF4-E227-47D9-AE82-F332F4876655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FE1CF4-E227-47D9-AE82-F332F4876655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FE1CF4-E227-47D9-AE82-F332F4876655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FE1CF4-E227-47D9-AE82-F332F4876655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA45528-780C-43EA-A1E7-2B437EDC7AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA45528-780C-43EA-A1E7-2B437EDC7AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA45528-780C-43EA-A1E7-2B437EDC7AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA45528-780C-43EA-A1E7-2B437EDC7AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D59D72-2817-455B-BA36-5B5C5DAE11E0}
+	EndGlobalSection
+EndGlobal
